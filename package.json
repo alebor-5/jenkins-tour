@@ -1,0 +1,14 @@
+{
+  "name": "jenkins-tour",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts":{
+    "start": "node index.js"
+  },
+  "repository": "git@github.com:alebor-5/jenkins-tour.git",
+  "author": "alebor-5 <alebor-5@student.ltu.se>",
+  "license": "MIT",
+  "dependencies": {
+    "semantic-release": "^17.4.1"
+  }
+}
